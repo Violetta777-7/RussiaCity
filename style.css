@@ -1,6 +1,5 @@
 body {
-    background-color: #e0efd1;
-    background-image: url("krt.png");
+    background-color: #e0efd2;
     background-repeat: no-repeat;
     background-attachment: fixed;
     backdrop-filter: 30px;
@@ -53,4 +52,5 @@ div {
 }
 @font-face {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
